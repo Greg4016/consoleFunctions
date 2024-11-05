@@ -6,6 +6,9 @@
         "activeTab",
         "scripting"
     ],
+    "icons": {
+        "128": "logo.png"
+    },
     "content_scripts": [
         {
             "world": "MAIN",
